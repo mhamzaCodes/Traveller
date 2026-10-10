@@ -1,0 +1,48 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney",
+          "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=500",
+          "description": "A vibrant city known for its Sydney Opera House, harbor, and beautiful beaches."
+        },
+        {
+          "name": "Melbourne",
+          "imageUrl": "https://images.unsplash.com/photo-1514395462725-fb4566210144?w=500",
+          "description": "A cultural hub featuring art, alleys, and incredible coffee."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://images.unsplash.com/photo-1600965962361-9035dbfd1c50?w=500",
+      "description": "A magnificent temple complex and the largest religious monument in the world."
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://images.unsplash.com/photo-1564507592208-02df23a7c1e4?w=500",
+      "description": "An immense mausoleum of white marble, built in Agra by Mughal emperor Shah Jahan."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=500",
+      "description": "Famous for its stunning aqua-centric luxury resorts and coral reefs."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana, Brazil",
+      "imageUrl": "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=500",
+      "description": "A vibrant and iconic beach located in Rio de Janeiro."
+    }
+  ]
+}
